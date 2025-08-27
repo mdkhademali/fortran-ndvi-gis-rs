@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build fortran",
+      "type": "shell",
+      "command": "make",
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "run",
+      "type": "shell",
+      "command": "make run",
+      "group": "test",
+      "problemMatcher": []
+    }
+  ]
+}

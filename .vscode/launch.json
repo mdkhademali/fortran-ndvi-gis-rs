@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run NDVI",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/bin/ndvi",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "externalConsole": true
+    }
+  ]
+}
