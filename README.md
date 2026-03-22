@@ -1,6 +1,6 @@
 ## Fortran NDVI Calculation in GIS & Remote Sensing
 
-This is a project I created in the field of **GIS & Remote Sensing**, focusing specifically on **vegetation index analysis**. The goal of the project is to demonstrate how to process raster data (satellite image bands) using **Fortran** and calculate the **NDVI (Normalized Difference Vegetation Index)**.
+This is a project I created in the field of **GIS & Remote Sensing**, focusing specifically on **vegetation index analysis**. The goal of the project is to demonstrate how to process raster data (satellite image bands) using **Fortran** and calculate the **NDVI**.
 
 ## Project Topic
 
