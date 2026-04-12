@@ -8,7 +8,7 @@ This is a project I created in the field of **GIS & Remote Sensing**, focusing s
 - **Specific Topic:** Vegetation index analysis from satellite imagery
 - **Main Focus:** Computing **NDVI** from Red and NIR bands
 
-## What It Does
+## What It Does?
 
 - Reads **two ESRI ASCII grid files** (Red and Near Infrared bands).
 - Calculates **NDVI (Normalized Difference Vegetation Index)** per cell:
